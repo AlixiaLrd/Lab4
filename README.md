@@ -1,2 +1,2 @@
 # Lab4
-[live demo](https://github.com/AlixiaLrd/Lab4.git)
+[live demo](https://alixialrd.github.io/Lab4/)
